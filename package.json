@@ -4,13 +4,12 @@
     "description": "",
     "main": "teste.js",
     "scripts": {
-      "test": "node index.test | tap-spec"
+        "test": "node index.test | tap-spec"
     },
     "author": "",
     "license": "ISC",
     "dependencies": {
-    "tap-spec": "^5.0.0",
-    "tape": "^5.5.3"
-  }
+        "tap-spec": "^5.0.0",
+        "tape": "^5.6.4"
+    }
 }
-  
